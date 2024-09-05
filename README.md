@@ -37,7 +37,7 @@ This project was created specifically to strengthen my concepts of Python progra
     Execute the following command to start the game:
 
     ```bash
-    python slot_machine.py
+    python slot-machine.py
     ```
 
 ## How to Play
